@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @firdevser
-- 👀 I’m interested in embedded software
-- 🌱 I’m currently learning C, MCUs, and hardware communication protocols
-- 📫 How to reach me: 
+- 👀 I’m interested in digital design
+- 🌱 I’m currently learning VHDL, SystemVerilog
+- 📫 How to reach me:
 
 <!---
 firdevser/firdevser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
